@@ -28,3 +28,5 @@ I said she'll never go away
 Dolly'll never go away again
 
 first addition (commit 1)
+
+second addition (commit 2)
